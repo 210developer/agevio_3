@@ -1,17 +1,17 @@
 <?php
-
-public $roles;
-public $permissions;
+/**
+* Testing class.
+*/
 
 class Auth{
 
+
+	public $roles;
+	public $permissions;
+
 	public function __construct()
 	{
-		$roles['admin'] = array('r','w','x');
-		$roles['user'] = array('r','w');
-		$roles['guest'] = array('r');
-		
-		$this->roles = $roles;
+	
 	}
 
 }
