@@ -41,10 +41,15 @@
 |
 */
 	$application_folder = "application";
+	
+	
+	
+	
+	
 
 /*
 |===============================================================
-| END OF USER CONFIGURABLE SETTINGS
+| END OF USER CONFIGURABLE SETTINGSS
 |===============================================================
 */
 
